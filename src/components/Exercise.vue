@@ -1,9 +1,9 @@
 <template>
-    <p>This is Support</p>
+    <p>This is Exercise</p>
 </template>
 
 <script>
 export default {
-    name: 'Support'
+    name: 'Exercise'
 }
 </script>

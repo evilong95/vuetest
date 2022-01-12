@@ -11,7 +11,7 @@
             <router-link to="/product3">Product 3</router-link>
         </div>    
     </li>
-    <li><router-link to="/support">Support</router-link></li>
+    <li><router-link to="/exercise">Exercise</router-link></li>
     <li><router-link to="/contact-us">Contact Us</router-link></li>
 </ul>
 
